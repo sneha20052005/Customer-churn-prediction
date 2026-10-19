@@ -120,3 +120,14 @@ Obtain the IBM Telco Customer Churn dataset from its original source, subject to
 4. Run the notebook
 
 Open "01_churn_analysis.ipynb" in Jupyter Notebook or VS Code and run the cells in order.
+
+Dataset
+
+This project uses the IBM Telco Customer Churn dataset, containing 7,043 customer records.
+
+- Dataset source: "Kaggle — Telco Customer Churn" (https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- Download the CSV and place it in the "data/" folder.
+- Expected filename: "WA_Fn-UseC_-Telco-Customer-Churn.csv"
+- The raw dataset is not included in this repository.
+
+Please follow the dataset source's applicable terms of use.
